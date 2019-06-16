@@ -1,1 +1,1 @@
-web: gunicorn project_name.wsgi
+web: gunicorn cp_django_barebones.wsgi
